@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mohon Saha
-Skills: HTML, CSS, JS, React js, Next js, Node js, MongoDB
-Email: mohonsaha108@gmail.com
-{{/user}}
